@@ -19,7 +19,7 @@ Despite the simplicity of the setup, the system successfully returned accurate r
 ## How to Run the Notebook
 Clone this repository to your local machine:
 ```
-git clone [<repository-url>](https://github.com/Dhruv2027/RAG-From-Scratch.git)
+git clone https://github.com/Dhruv2027/RAG-From-Scratch.git
 ```
 
 Install the required Python dependencies:
