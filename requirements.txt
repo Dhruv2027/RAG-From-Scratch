@@ -1,0 +1,9 @@
+fitz
+tqdm
+pandas
+spacy
+ollama
+random2
+regex
+numpy
+textwrap3
